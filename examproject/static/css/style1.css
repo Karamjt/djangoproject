@@ -1,0 +1,43 @@
+.d1{
+    color:green;
+    background-image: url('img/backgroundimg.jpg');
+    width: 100%;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.d2{
+    text-align: center;
+    color:#fff;
+    font-size: 60px;
+    font-weight: 600px;
+    padding: 170px;
+    
+}
+
+.for{
+    font-size: 3rem;
+    
+}
+.too1 h1{
+    font-family: 'Bree Serif', serif;
+    margin-top: 50px;
+}
+.too1 p{
+    text-align: justify;
+}
+    
+.too2{
+    text-align: center;
+}
+.too2 h2{
+    font-family: 'Bree Serif', serif;
+    margin-top: 50px;
+}
+ h3{
+    font-family: sans-serif;
+    color: black;
+}
+
+
